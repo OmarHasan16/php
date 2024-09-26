@@ -1,4 +1,4 @@
-Certainly! In PHP, you can create arrays using either the `array()` function or the short array syntax, which involves wrapping comma-separated elements in square brackets `[ ]`. Let's explore both methods with examples:
+In PHP, you can create arrays using either the `array()` function or the short array syntax, which involves wrapping comma-separated elements in square brackets `[ ]`. Let's explore both methods with examples:
 
 1. Using `array()` function:
 ```php
